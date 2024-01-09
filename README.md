@@ -31,7 +31,6 @@ data=fp.read()
 words=data.split()
 print("Total Words:",len(words))
 ```
-
 ### OUTPUT:
 
 ![Screenshot 2023-12-23 113947](https://github.com/syedfayaz3105/command-line-arguments-to-count-word/assets/147144126/44ca232f-1ffc-4245-aa01-03c17a060459)
